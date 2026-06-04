@@ -1,20 +1,40 @@
-# 💫 About Me<br><br>Computer Engineering Student*| **Backend Developer** | **ML Enthusiast**<br><br>Building scalable backend systems and intelligent ML models. Passionate about solving real-world problems through code.<br><br>## 🚀 What I'm Working On<br>- **Backend Development:** Architecting REST APIs with Java and PostgreSQL<br>- **Machine Learning:** Computer Vision models for road damage detection and spam classification<br>- **Problem Solving:** Consistent DSA practice (LeetCode, Striver's A2Z Sheet)<br><br>## 🤝 Open to Collaborate On<br>- **Backend Projects:** Microservices, API design, database optimization<br>- **ML Applications:** Object detection, NLP, predictive modeling<br>- **Open Source:** First-time contributor eager to learn from production codebases<br><br>## 📚 Current Focus Areas<br>- Advanced Java (Spring Boot, Hibernate, multithreading)<br>- Machine Learning deployment and MLOps<br>- System Design fundamentals<br><br>## 🎯 2026 Goals<br>Build production-grade projects combining backend engineering with ML capabilities. Preparing for MS abroad (2028).
+## Janhvesh Patil
 
+**Backend Developer · Java & Spring Boot · Computer Engineering @ PCCOE '28**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/janhvesh-patil) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janhveshspatil25@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Janhvesh Patil&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Janhvesh Patil&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Janhvesh Patil&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Janhvesh Patil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I build backend systems and explore how machine learning can be integrated into real-world applications.
+Currently focused on REST APIs, PostgreSQL, system design fundamentals, and ML engineering concepts.
+Long-term goal: ML infrastructure and distributed systems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Janhvesh Patil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔧 What I'm Building
+
+| Project                                                            | Stack                                 | Status         |
+| ------------------------------------------------------------------ | ------------------------------------- | -------------- |
+| [S.H.I.E.L.D. Mission Board](#)                                    | Java · Spring Boot · PostgreSQL · JWT | 🔨 In Progress |
+| [Net-Neutral AI](https://github.com/Janhvesh-Patil/Net-Neutral-AI) | Python · Federated Learning           | ✅ Complete     |
+| [ClimaWell](https://github.com/Janhvesh-Patil/ClimaWell)           | Python · scikit-learn · Random Forest | ✅ Complete     |
+
+---
+
+### 🛠 Stack I Actually Use
+
+**Backend:** Java · Spring Boot · JDBC · JUnit
+**Database:** PostgreSQL · MySQL
+**ML/Data:** Python · scikit-learn · TensorFlow · PyTorch · pandas · NumPy · Matplotlib · Seaborn
+**Frontend:** JavaScript · HTML · CSS
+**Tools:** Git · IntelliJ IDEA · PyCharm · VS Code · Google Colab · Google Antigravity IDE
+
+---
+
+### 📈 DSA
+
+Daily practice on LeetCode and CodeChef · Following Striver's A2Z Sheet
+Language: C++
+
+---
+
+### 📫 Reach Me
+
+[LinkedIn](https://www.linkedin.com/in/janhvesh-patil) · [Email](mailto:janhveshspatil25@gmail.com)
