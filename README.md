@@ -1,6 +1,6 @@
 ## Janhvesh Patil
 
-**Backend Developer · Java & Spring Boot · Computer Engineering @ PCCOE '28**
+**Backend Developer · Java & Spring Boot · Computer Engineering @ PCCOER '28**
 
 I build backend systems and explore how machine learning can be integrated into real-world applications.
 Currently focused on REST APIs, PostgreSQL, system design fundamentals, and ML engineering concepts.
