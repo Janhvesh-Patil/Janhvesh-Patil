@@ -11,9 +11,9 @@ Currently focused on REST APIs, PostgreSQL, system design fundamentals, and ML e
 
 | Project                                                            | Stack                                 | Status         |
 | ------------------------------------------------------------------ | ------------------------------------- | -------------- |
-| [S.H.I.E.L.D. Mission Board](#)                                    | Java · Spring Boot · PostgreSQL · JWT | 🔨 In Progress |
-| [Net-Neutral AI](https://github.com/Janhvesh-Patil/Net-Neutral-AI) | Python · Federated Learning           | ✅ Complete     |
-| [ClimaWell](https://github.com/Janhvesh-Patil/ClimaWell)           | Python · scikit-learn · Random Forest | ✅ Complete     |
+| [S.H.I.E.L.D. Mission Board](#)                                    | Java · JDBC · PostgreSQL · Docker |  Complete |
+| [Net-Neutral AI](https://github.com/Janhvesh-Patil/Net-Neutral-AI) | Python · Federated Learning           | In Development     |
+| [ClimaWell](https://github.com/Janhvesh-Patil/ClimaWell)           | Python · scikit-learn · Random Forest |  Complete     |
 
 ---
 
